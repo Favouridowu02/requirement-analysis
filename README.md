@@ -175,3 +175,43 @@ Use Case Diagrams focus on **what the system should do** rather than **how it wi
 ---
 
 ![ Use Case Diagram](alx-booking-uc.png)
+
+---
+### **Acceptance Criteria**
+
+**Definition:**  
+Acceptance Criteria are a set of **predefined conditions or requirements** that a software product or feature must meet to be **accepted by stakeholders**. They serve as the **benchmark for validating** whether a feature has been implemented correctly and fulfills the intended purpose.
+
+---
+
+### **Importance of Acceptance Criteria in Requirement Analysis**
+1. **Provides Clear Definition of Done**  
+   - Acceptance Criteria define what it means for a feature or user story to be considered **complete and successful**.
+
+2. **Aligns Stakeholder Expectations**  
+   - Helps avoid misunderstandings between developers, testers, and clients by setting **clear expectations**.
+
+3. **Facilitates Test Case Design**  
+   - Acts as the basis for writing **test scenarios** and verifying the functionality during QA.
+
+4. **Reduces Ambiguity in Requirements**  
+   - Ensures requirements are **specific, measurable, and testable**, leaving no room for assumptions.
+
+5. **Improves Quality Assurance**  
+   - Guarantees that the delivered feature meets **functional and non-functional requirements** before release.
+
+---
+
+### **Example: Acceptance Criteria for Checkout Feature in a Booking Management System**
+**Feature:** *Checkout – Complete Payment for Hotel Booking*
+
+**Acceptance Criteria:**
+- **AC1:** The user must be able to view a **summary of the booking details**, including room type, dates, and total price, before checkout.
+- **AC2:** The system must allow the user to **select a payment method** (Credit Card, Debit Card, or Digital Wallet).
+- **AC3:** The system must **validate payment details** (e.g., card number, CVV, expiry date) before processing.
+- **AC4:** On successful payment, the system must **display a confirmation message** and send an email/SMS to the user.
+- **AC5:** If the payment fails, the system must **display an error message** and allow the user to retry or change the payment method.
+- **AC6:** The checkout process must be completed **within 5 seconds** for a successful transaction.
+- **AC7:** All payment data must be **encrypted** using SSL/TLS during transmission.
+
+---
