@@ -105,3 +105,37 @@ Requirement Analysis consists of several structured activities that help ensure 
 
 ---
 
+### **Types of Requirements**
+
+In a booking management system (similar to hotel booking platforms like Airbnb or OYO), requirements are generally categorized into **Functional** and **Non-functional** requirements.
+
+---
+
+#### **1. Functional Requirements**
+**Definition:**  
+Functional requirements specify **what the system should do** — the core features and operations that must be implemented for the system to achieve its goals.
+
+**Examples for Booking Management System:**  
+- **User Authentication:** Users should be able to register, log in, and log out securely.
+- **Search and Filter Hotels:** Users can search for hotels based on location, price, and availability.
+- **Room Booking:** The system should allow users to book rooms for specific dates and make payments.
+- **Booking Management:** Users can view, cancel, or modify their bookings.
+- **Host Management:** Hosts should be able to list properties, set prices, and manage availability.
+- **Notifications:** The system should send email or SMS notifications for booking confirmations and reminders.
+
+---
+
+#### **2. Non-functional Requirements**
+**Definition:**  
+Non-functional requirements define **how the system should perform** rather than the specific functionalities. They focus on quality attributes like performance, security, and usability.
+
+**Examples for Booking Management System:**  
+- **Performance:** The system should handle at least **10,000 concurrent users** without performance degradation.
+- **Availability:** The system must ensure **99.9% uptime** for critical booking operations.
+- **Scalability:** The platform should scale horizontally to support a growing number of users and properties.
+- **Security:** All transactions and personal data must be encrypted using **SSL/TLS** protocols.
+- **Response Time:** Search results should be displayed within **2 seconds**.
+- **Usability:** The interface should be **responsive and accessible** on mobile and desktop devices.
+
+---
+
