@@ -37,3 +37,71 @@ Requirement Analysis is a **critical phase in the Software Development Life Cycl
   Clear, well-documented requirements serve as the **blueprint** for design, development, and testing.  
 - **Why it matters:**  
   It ensures the final product meets **functional** and **non-functional** requirements, resulting in a solution that aligns with user expectations and performs effectively under real-world conditions.
+
+### **Key Activities in Requirement Analysis**
+
+Requirement Analysis consists of several structured activities that help ensure the software meets stakeholder needs effectively. Below are the five key activities:
+
+---
+
+#### **1. Requirement Gathering**
+- **Description:**  
+  This is the initial step where information about the system is collected from stakeholders such as clients, end-users, and domain experts.  
+- **Objective:**  
+  To understand the **high-level needs**, **business goals**, and **expectations** of the project.  
+- **Techniques:**  
+  - Stakeholder meetings  
+  - Reviewing existing documents  
+  - Market and competitor analysis  
+
+---
+
+#### **2. Requirement Elicitation**
+- **Description:**  
+  In this phase, the team **extracts detailed requirements** through interaction with stakeholders to uncover explicit and implicit needs.  
+- **Objective:**  
+  To identify both **functional** and **non-functional requirements** that might not be immediately obvious.  
+- **Techniques:**  
+  - Interviews  
+  - Brainstorming sessions  
+  - Questionnaires and surveys  
+  - Observation and workshops  
+
+---
+
+#### **3. Requirement Documentation**
+- **Description:**  
+  After gathering and eliciting requirements, they are formally documented in a structured format such as the **Software Requirement Specification (SRS)**.  
+- **Objective:**  
+  To create a **clear, comprehensive, and unambiguous record** of all requirements that will serve as a reference throughout the project.  
+- **Key Outputs:**  
+  - SRS Document  
+  - Use case diagrams  
+  - User stories  
+
+---
+
+#### **4. Requirement Analysis and Modeling**
+- **Description:**  
+  This step involves **analyzing requirements for completeness, feasibility, consistency, and priority**. Modeling is used to represent requirements visually for better understanding.  
+- **Objective:**  
+  To ensure requirements are logically organized, free of conflicts, and achievable within given constraints.  
+- **Tools & Techniques:**  
+  - UML diagrams (Use Case, Activity, Class)  
+  - Data Flow Diagrams (DFD)  
+  - Entity-Relationship Diagrams (ERD)  
+
+---
+
+#### **5. Requirement Validation**
+- **Description:**  
+  Validation ensures that the documented requirements **accurately reflect stakeholder needs** and are technically and financially feasible.  
+- **Objective:**  
+  To confirm that requirements are **correct, complete, and testable** before moving to the design phase.  
+- **Techniques:**  
+  - Requirements review meetings  
+  - Prototyping  
+  - Walkthroughs and inspections  
+
+---
+
