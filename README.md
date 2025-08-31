@@ -139,3 +139,37 @@ Non-functional requirements define **how the system should perform** rather than
 
 ---
 
+### **Use Case Diagrams**
+
+**Definition:**  
+A **Use Case Diagram** is a visual representation of the interactions between **users (actors)** and a **system**, illustrating the different ways users can interact with the system to achieve specific goals. It is part of **Unified Modeling Language (UML)** and is commonly used during the **Requirement Analysis** phase of SDLC.
+
+Use Case Diagrams focus on **what the system should do** rather than **how it will do it**. They provide a high-level overview of the system's functionality from the end-user perspective.
+
+---
+
+#### **Key Components of a Use Case Diagram**
+- **Actors:** Entities (users or other systems) that interact with the system (e.g., Customer, Admin, Payment Gateway).
+- **Use Cases:** Specific actions or tasks the system performs for an actor (e.g., Book Room, Cancel Reservation, Make Payment).
+- **System Boundary:** Defines the scope of the system being modeled.
+- **Relationships:** Connections between actors and use cases (e.g., associations, include, extend).
+
+---
+
+### **Benefits of Use Case Diagrams**
+1. **Clarifies System Scope and Boundaries**  
+   - Shows what the system will do and what lies outside its boundary.
+
+2. **Improves Communication with Stakeholders**  
+   - Provides a simple and intuitive way for **non-technical stakeholders** to understand system functionality.
+
+3. **Identifies Functional Requirements Early**  
+   - Helps capture all possible interactions between users and the system.
+
+4. **Serves as a Foundation for Design and Testing**  
+   - Use cases can be used to **design workflows** and **create test cases** for validation.
+
+5. **Helps Detect Missing Requirements**  
+   - Visualizing interactions can reveal overlooked functionalities or roles.
+
+---
