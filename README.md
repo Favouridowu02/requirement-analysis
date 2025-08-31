@@ -173,3 +173,5 @@ Use Case Diagrams focus on **what the system should do** rather than **how it wi
    - Visualizing interactions can reveal overlooked functionalities or roles.
 
 ---
+
+![ Use Case Diagram](alx-booking-uc.png)
