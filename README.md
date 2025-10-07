@@ -213,5 +213,3 @@ Acceptance Criteria are a set of **predefined conditions or requirements** that 
 - **AC5:** If the payment fails, the system must **display an error message** and allow the user to retry or change the payment method.
 - **AC6:** The checkout process must be completed **within 5 seconds** for a successful transaction.
 - **AC7:** All payment data must be **encrypted** using SSL/TLS during transmission.
-
----
